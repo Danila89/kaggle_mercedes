@@ -4,7 +4,7 @@ The descriprion is here: https://www.kaggle.com/c/mercedes-benz-greener-manufact
 
 The presentation of the solution in Yandex here (Russian audio, English subtitles): https://youtu.be/0qHXNeuNOAE
 
-Also my blogpost about the solution is available (Russian language): https://habrahabr.ru/company/ods/blog/336168/
+Also my blog post about the solution is available (Russian language): https://habrahabr.ru/company/ods/blog/336168/
 
 List of files:
 1. cluster_target_encoder.py - the class for generating the cluster labels. See: https://www.kaggle.com/daniel89/mercedes-cars-clustering/
